@@ -8,7 +8,7 @@
 }
 
 html {
-    font-family: monospace;
+    font-family: Georgia, serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
